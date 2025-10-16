@@ -27,5 +27,7 @@
 
 ---
 
-### 🌐 View All Publications
-🔗 [View on Google Scholar](https://scholar.google.com](https://scholar.google.com/citations?hl=ar&user=m-RUIegAAAAJ&view_op=list_works&gmla=AH8HC4zLsoVHiSyRMTO0tU8raFz9A_3WxAFxJBPKM-pVDfa-JhF-qvgzu2Sk5u57QpNjEW4lccC3u6Uxo7kRT5WItXvL3x9EezJiJw1jjylGYgo5ci9d4q8J)
+
+🔗My Google Scholar profile lists my research contributions and citations in AI, medical imaging, and machine learning.  
+🔗 [Google Scholar – My Publications](https://scholar.google.com/citations?hl=ar&user=m-RUIegAAAAJ&view_op=list_works&gmla=AH8HC4zLsoVHiSyRMTO0tU8raFz9A_3WxAFxJBPKM-pVDfa-JhF-qvgzu2Sk5u57QpNjEW4lccC3u6Uxo7kRT5WItXvL3x9EezJiJw1jjylGYgo5ci9d4q8J)
+
